@@ -1,7 +1,7 @@
 # EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
 # Simulation of Instrumentation Amplifier
 
-## AIM:
+## AIM:  
 
  To Design and simulate the Instrumentation amplifier circuit using LT-Spice.
  
