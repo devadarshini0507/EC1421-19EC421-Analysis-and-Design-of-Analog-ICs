@@ -8,7 +8,7 @@ To construct a RC phase shift and Wien bridge oscillator to generate sine wave u
 <img width="933" height="270" alt="image" src="https://github.com/user-attachments/assets/4f7bc183-2ed0-4591-b9aa-846127704eee" />
 
 ## THEORY:
-### RC PHASE SHIFT OSCILLATOR:
+### RC PHASE SHIFT OSCILLATOR:  
 RC phase shift oscillator produces 360° of phase shift in two parts. Firstly,each and every RC pair in the feedback network produces 60° phase shift and totally there were three pairs, thus producing 180° Phase shift and secondly, the feedback input is given to the inverting terminal of op-amp to produce another 180° phase shift and a total phase shift of 360°.
 The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an inverting amplifier is used, the gain must be atleast equal to 29 to ensure the oscillations with constant .
 ### WIEN BRIDGE:
