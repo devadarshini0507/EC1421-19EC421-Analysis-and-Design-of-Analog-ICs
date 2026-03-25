@@ -10,7 +10,7 @@ To design and construct a inverting amplifier using op-amp(IC-741).
 <img width="770" height="196" alt="image" src="https://github.com/user-attachments/assets/1aad441d-1f06-4ff4-bb66-10b2b57249bc" />
 
 ## THEORY: 
-
+  
 INVERTING AMPLIFIER: 
 This is the most widely used op-amp. Here, the output voltage Vo is feedback to the 
 inverting input terminal through the Rf – R1 network. The negative sign in gain indicates the 
