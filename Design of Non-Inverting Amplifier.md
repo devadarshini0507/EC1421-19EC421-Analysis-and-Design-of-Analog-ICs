@@ -16,7 +16,7 @@ ACL = 1 + ( RF / R1)
 
 ## CIRCUIT DIAGRAM:
 
-## MODEL GRAPH:
+## MODEL GRAPH: 
 
 ## PROCEDURE:
 ### Non-Inverting Amplifier
