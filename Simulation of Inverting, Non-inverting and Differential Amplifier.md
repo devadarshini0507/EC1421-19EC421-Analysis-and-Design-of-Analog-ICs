@@ -4,7 +4,7 @@
 To Design and simulate a inverting, non- inverting and differential amplifiers using LT-Spice.
 
 ## SOFTWARE REQUIRED:
-LT-Spice
+LT-Spice 
 
 ## PROCEDURE:
 1. Double click on LT-Spice icon.
