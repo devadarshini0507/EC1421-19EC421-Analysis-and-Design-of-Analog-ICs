@@ -21,9 +21,11 @@ obtained.
 
 ## CIRCUIT DIAGRAM:
 
+<img width="928" height="342" alt="image" src="https://github.com/user-attachments/assets/10effeb3-53f0-4f03-ab86-cde1ba5f9f13" />
 
 
 ## OUTPUT GRAPH:
+<img width="1600" height="897" alt="image" src="https://github.com/user-attachments/assets/3ca63374-9cc1-4ba5-b512-d3649bd9faac" />
 
 
 ## RESULT:
