@@ -8,7 +8,7 @@ To Design and simulate the Schmitt trigger circuit using LT Spice
 LT-Spice
 
 ## PROCEDURE:
-1. Double click on LT Spice icon. 
+1. Double click on LT Spice icon.
 
 2. New schematic window open.
 
@@ -24,10 +24,12 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 ### SCHMITT TRIGGER:
+<img width="851" height="320" alt="image" src="https://github.com/user-attachments/assets/174dc597-941a-4b28-9459-d744b5d8e434" />
 
 
 ## OUTPUT GRAPH:
 ### SCHMITT TRIGGER:
+![WhatsApp Image 2026-03-21 at 7 26 55 PM](https://github.com/user-attachments/assets/47ecb8b3-6dee-4bc1-b497-d60865e688fc)
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and Schmitt trigger circuit is simulated.
